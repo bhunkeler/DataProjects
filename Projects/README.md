@@ -17,7 +17,7 @@ The following kernel performs an image classification based on the MNIST Dataset
 The following kernel performs an image classification based on the CIFAR 10 Dataset. 
 <br><br>
 It has been separated in different sections:<br>
-[Image classification](https://github.com/bhunkeler/DataProjects/blob/master/Projects/Python/CIFAR/002.001_CNN_CIFAR10_Image%20classification.ipynb)<br>
+[Image classification](https://github.com/bhunkeler/DataProjects/blob/master/Projects/Python/CIFAR/002.001_CNN_CIFAR10_Image_classification.ipynb)<br>
   Kernel Content<br>
   - Simple Model to detect images from a CIFAR 10 data set<br>
   - Augmented Data Model<br>
