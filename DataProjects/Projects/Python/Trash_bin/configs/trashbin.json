@@ -1,0 +1,16 @@
+{
+    "trash_bin": {
+                    "api_key": "",
+                    "switzerland_ctr": [46.8182, 8.2275],
+                    "winterthur_ctr": [47.4988, 8.7237]
+                 }, 
+                 "tsp":{
+                    "temp": 1000,
+                    "stopping_temp": 0.00000001,
+                    "alpha":         0.9995,
+                    "stopping_iter": 10000000, 
+                    "size_width":    1600,
+                    "size_height":   1100,
+                    "population_size": 10
+                 }
+}

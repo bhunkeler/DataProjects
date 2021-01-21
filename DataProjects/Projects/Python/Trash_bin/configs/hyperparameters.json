@@ -1,0 +1,35 @@
+{
+  "pneumonia": {
+    "data_shape":           [150, 150, 3],
+    "image_size":           150,
+    "num_channels":         3,
+    "num_classes":          2,
+    "epochs":               20,
+    "batch_size":           32,
+    "num_epochs":           10,
+    "max_epochs":           50, 
+    "learning_rate":        1e-4,
+    "beta_1" :              0.9,
+    "momentum":             0.9, 
+    "default": {
+      "data_directory":       "data",
+      "segment":              "pneumonia",
+      "weights_directory":    "model/weights",
+      "image_augmentation":   "data/preview/"    
+    },
+    "svm_linear":{
+      "C":                    10,
+      "gamma":                0.0001
+    },
+    "svm_gaussian":{
+      "C":                    10,
+      "gamma":                0.0001   
+    },
+    "svm_polynomial":{
+      "C":                    10,
+      "gamma":                0.0001    
+    }
+  }, 
+  "MNIST":{}, 
+  "CIFAR10":{}
+}

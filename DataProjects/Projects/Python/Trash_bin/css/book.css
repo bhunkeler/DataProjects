@@ -1,0 +1,28 @@
+body{
+  font-family: Segoe UI;
+  font-size: 10pt;
+}
+
+h1 {
+  color: steelblue;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h2 {
+  color: steelblue;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h3 {
+  color: steelblue;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h4 {
+  color: steelblue;
+  font-size: 14px;
+  font-weight: bold;
+}

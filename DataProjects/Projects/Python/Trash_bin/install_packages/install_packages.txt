@@ -1,0 +1,14 @@
+
+
+pip install ./install_packages/GDAL-3.1.4-cp38-cp38-win_amd64.whl
+pip install ./install_packages/Rtree-0.9.4-cp38-cp38-win_amd64.whl
+pip install ./install_packages/Shapely-1.7.1-cp38-cp38-win_amd64.whl
+pip install ./install_packages/Fiona-1.8.18-cp38-cp38-win_amd64.whl
+
+pip install ortools
+
+
+# Databricks - Install Version V3.7.5 required
+PyPI GDAL==3.1.4  # does not work 
+pip install bunch 
+pip install ortools
