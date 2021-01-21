@@ -22,13 +22,13 @@
   The following kernel performs an image classification based on the CIFAR 10 Dataset. 
 
   It has been separated in different sections:<br>
-    Kernel Content
-    - Simple Model to detect images from a CIFAR 10 data set
-    - Augmented Data Model
-    - Separable Data Model
-    - Ensamble of Data Models
-
-  **Sentiment Analysis**
+    Kernel Content  
+    - Simple Model to detect images from a CIFAR 10 data set  
+    - Augmented Data Model  
+    - Separable Data Model  
+    - Ensamble of Data Models  
+  
+  **Sentiment Analysis**  
   The following kernel performs an sentiment analysis based on twitter disaster and IMDB movie data.
 
 
