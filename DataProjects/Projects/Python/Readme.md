@@ -1,10 +1,3 @@
-
-
-**CAS Machine Intelligence - Big Data**
-
-Author: Bruno Hunkeler  
-Date:   02.01.2021
-
   **Trash bin project**
 
   Any city in the world has trash-bins, which fill up over time. Each of the trash bins needs to be emptied from time to time.   
@@ -21,6 +14,25 @@ Date:   02.01.2021
   trash-bin needs attention. The appliaction should monitor the filling levels and propose an optimale route (leeds to an optimization) 
   based on the `travelling salesman problem`. A simulated annealing optimization algorithm or an OR - Tools approach should be used 
   to resolve the optimal route of a Garbageman.  
+
+  **Hand written digit classification via Convolutional Neural Network**   
+  The following kernel performs an image classification based on the MNIST Dataset.
+
+  **Image classification via Convolutional Neural Network (CNN)**  
+  The following kernel performs an image classification based on the CIFAR 10 Dataset. 
+
+  It has been separated in different sections:<br>
+    Kernel Content  
+    - Simple Model to detect images from a CIFAR 10 data set  
+    - Augmented Data Model  
+    - Separable Data Model  
+    - Ensamble of Data Models  
+  
+  **Sentiment Analysis**  
+  The following kernel performs an sentiment analysis based on twitter disaster and IMDB movie data.
+
+
+
 
 
 
