@@ -6,8 +6,8 @@ Remark
 `The whole repository is currently under construction`
 
 **Python - Projects**  
- - Trash bin project  
- - Hand written digit classification via Convolutional Neural Network   
- - Image classification via Convolutional Neural Network (CNN)  
+ - [Trash bin project](https://github.com/bhunkeler/DataProjects/tree/master/DataProjects/Projects/Python/Trash_bin)  
+ - [NLP Embeddings](https://github.com/bhunkeler/DataProjects/tree/master/DataProjects/Projects/Python/NLP/Sentiment%20Analysis%20with%20Embeddings)   
+ - [Image classification via Convolutional Neural Network (CNN)](https://github.com/bhunkeler/DataProjects/tree/master/DataProjects/Projects/Python/CIFAR)  
 
 **R - Projects**
