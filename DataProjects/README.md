@@ -9,6 +9,6 @@ Date:   30.06.2018
 
 This repository contains Projects, links and resources 
 
-* [Projects](https://github.com/bhunkeler/DataProjects/tree/master/Projects)
-* [Ressources](https://github.com/bhunkeler/DataProjects/tree/master/Ressources)
+* [Projects](https://github.com/bhunkeler/DataProjects/tree/master/DataProjects/Projects)
+* [Ressources](https://github.com/bhunkeler/DataProjects/tree/master/DataProjects/Ressources)
 
