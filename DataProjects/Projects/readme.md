@@ -1,6 +1,6 @@
 
 **Projects**
-The following section contains various smaller projects in python and R.
+The following section contains various smaller projects in python.
 
 **Python - Projects**  
  - [Trash bin project](https://github.com/bhunkeler/DataProjects/tree/master/DataProjects/Projects/Python/Trash_bin)  
