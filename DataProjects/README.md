@@ -1,16 +1,14 @@
 
-<h2>DataProjects</h2>
-<br>
-Author: Bruno Hunkeler<br> 
-Date:   xx.06.2018<br>
+**Data Projects**  
 
-<b>Remark</b><br>
-`The whole repository is currently under construction`
+Author: Bruno Hunkeler  
+Date:   30.06.2018  
 
-<hr>
+**Remark:**  
+`The repository is currently under construction`  
 
 This repository contains Projects, links and resources 
 
-* [Ressources](https://github.com/bhunkeler/DataProjects/tree/master/Ressources)
 * [Projects](https://github.com/bhunkeler/DataProjects/tree/master/Projects)
+* [Ressources](https://github.com/bhunkeler/DataProjects/tree/master/Ressources)
 
